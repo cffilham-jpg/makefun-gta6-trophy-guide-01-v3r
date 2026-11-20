@@ -3,7 +3,7 @@
   "platform": "PlayStation 5",
   "edition": "Leonida Ledger",
   "researchDate": "2026-11-20",
-  "timeNote": "Individual times and difficulties are editorial estimates; story times are cumulative milestones. Unknown methods have no reliable completion estimate.",
+  "timeNote": "Published full-run estimate: about 200 hours. Individual times below are editorial planning estimates, not game timers.",
   "trophies": [
     {
       "id": 1,
@@ -11,32 +11,18 @@
       "description": "Congratulations! You're a Leonida Legend.",
       "grade": "platinum",
       "hidden": false,
-      "kind": "activities",
+      "kind": "story",
       "missable": false,
       "stage": 6,
-      "count": null,
       "difficulty": 4,
-      "time": "≈ 200 h total",
+      "time": "About 200 hours for the full set",
       "hours": 200,
-      "guide": "The platinum needs the other 54 trophies, all in single-player; there is no online or DLC requirement. Budget around 200 hours for the whole run, with most time spent on the completion checklist rather than the story. One playthrough is sufficient if you protect the Chapter 1 meditation opportunity.",
-      "steps": [
-        "Keep cheats off and maintain chapter-boundary saves.",
-        "Complete the story, then finish the in-game 100% checklist.",
-        "Resolve the remaining character strands and miscellaneous trophies; verify all 54 before marking this earned."
-      ],
-      "tip": "Treat the six stages as an itinerary, not six separate grinds: scan vehicles and study animals throughout the story.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "guide": "This is the platinum reward for finishing the other 54 trophies. The published route expects one story playthrough followed by free-roam cleanup, with no online requirements.",
+      "steps": ["Finish the campaign once.", "Use post-story free roam to complete the remaining challenges and collections.", "Check the ledger against all 54 other trophies before wrapping up."],
+      "tip": "Leave cheats disabled; they prevent trophy progress and saving.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Both guides describe a single-player platinum route; time is a published overall estimate.",
+      "checked": false
     },
     {
       "id": 2,
@@ -47,28 +33,15 @@
       "kind": "story",
       "missable": false,
       "stage": 1,
-      "count": null,
       "difficulty": 1,
-      "time": "Story · opening",
-      "hours": 0.5,
-      "guide": "This is an automatic award for the opening mission, Gone Fishing, in Chapter 1. No medal target or alternate route is required, so play the introduction normally and let its final sequence finish.",
-      "steps": [
-        "Follow the main objectives in Gone Fishing.",
-        "Finish the mission and allow the game to record completion."
-      ],
-      "tip": "Keep your first clean manual save before experimenting with any cheats.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "time": "Opening mission; included in the story run",
+      "hours": 1,
+      "guide": "Complete the opening mission, Gone Fishing. Both guides identify this as the first story trophy and give no separate challenge beyond reaching its completion state.",
+      "steps": ["Start a new story and follow the opening objective markers.", "Complete Gone Fishing and wait for the mission-complete transition.", "Confirm the trophy notification before moving on."],
+      "tip": "Keep the opening save if you want an easy reference point for the route.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Mission requirement agrees across both guides.",
+      "checked": false
     },
     {
       "id": 3,
@@ -78,29 +51,16 @@
       "hidden": true,
       "kind": "story",
       "missable": false,
-      "stage": 2,
-      "count": null,
+      "stage": 1,
       "difficulty": 2,
-      "time": "Story · Ch. 1",
-      "hours": 15,
-      "guide": "The chapter trophy can arrive after you have already moved into Chapter 2. Both sources place its unlock after What's in the Bag?, so the lack of a pop at the chapter transition is not a reason to restart. Finish the balcony meditation before leaving Chapter 1.",
-      "steps": [
-        "Accept Lucia's Chapter 1 meditation before progressing out of the chapter.",
-        "Follow the story into Chapter 2 and finish What's in the Bag?."
-      ],
-      "tip": "Keep a Chapter 1 end save; there is no mission replay.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "time": "Chapter 1 story milestone",
+      "hours": 6,
+      "guide": "Finish the first chapter. The guides agree that this award follows the Chapter 1 story finish; optional activities can wait for free roam, but the early meditation opportunity should be protected first.",
+      "steps": ["Follow the chapter missions in order.", "Do Lucia's available meditation before the chapter ends.", "Complete the chapter finale and verify the award."],
+      "tip": "Make a separate save before the chapter finale so the early side activity is easy to revisit if needed.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Chapter completion requirement corroborated by both guides.",
+      "checked": false
     },
     {
       "id": 4,
@@ -111,28 +71,15 @@
       "kind": "story",
       "missable": false,
       "stage": 2,
-      "count": null,
       "difficulty": 2,
-      "time": "Story · Ch. 2",
-      "hours": 30,
-      "guide": "The award for Chapter 2 is delayed until Welcome to Vice City at the beginning of Chapter 3. Keep following the main mission markers rather than searching for an extra Chapter 2 objective. This story award cannot be missed.",
-      "steps": [
-        "Complete Chapter 2's main missions.",
-        "Finish Welcome to Vice City when Chapter 3 begins."
-      ],
-      "tip": "Coffee Break in Chapter 2 unlocks joint free-roam; use that opportunity to revisit meditation spots together.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "time": "Chapter 2 story milestone",
+      "hours": 15,
+      "guide": "Complete Chapter 2 to earn this story award. The two sources agree on the chapter requirement and place it on the main campaign route.",
+      "steps": ["Continue the campaign after Chapter 1.", "Complete the Chapter 2 missions and finale.", "Check for the trophy after the chapter transition."],
+      "tip": "Finish any active optional scene before triggering a major chapter transition.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Chapter completion requirement corroborated by both guides.",
+      "checked": false
     },
     {
       "id": 5,
@@ -143,28 +90,15 @@
       "kind": "story",
       "missable": false,
       "stage": 2,
-      "count": null,
       "difficulty": 2,
-      "time": "Story · Ch. 3",
-      "hours": 45,
-      "guide": "Expect this chapter award during the opening of Chapter 4, after Ocean Beach and Another Life. The unlock timing is later than the wording might suggest. No optional robbery rating or mission medal is needed.",
-      "steps": [
-        "Finish the Chapter 3 story route.",
-        "Complete Ocean Beach and Another Life at the start of Chapter 4."
-      ],
-      "tip": "Save at the new chapter before beginning optional cleanup.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "time": "Chapter 3 story milestone",
+      "hours": 30,
+      "guide": "This trophy marks completion of Chapter 3. Follow the central story until the chapter-ending sequence resolves; both checked guides place the trophy at that milestone.",
+      "steps": ["Take the next main-story mission when available.", "Advance through the Chapter 3 objectives.", "Finish the chapter transition and confirm the trophy."],
+      "tip": "Use the journal's chapter save slots if you want to preserve a clean story checkpoint.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Chapter completion requirement corroborated by both guides.",
+      "checked": false
     },
     {
       "id": 6,
@@ -175,28 +109,15 @@
       "kind": "story",
       "missable": false,
       "stage": 2,
-      "count": null,
       "difficulty": 2,
-      "time": "Story · Ch. 4",
-      "hours": 60,
-      "guide": "Progress through the Chapter 4 main missions until the chapter is complete. PowerPyx names Starting From Zero as its endpoint, while GTABase confirms the chapter completion requirement. It is automatic; keep optional tasks separate from the main-story route.",
-      "steps": [
-        "Complete the Chapter 4 main objectives.",
-        "Allow the closing mission and chapter transition to finish."
-      ],
-      "tip": "Retain a save at both ends of the chapter instead of overwriting your entire save rotation.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "time": "Chapter 4 story milestone",
+      "hours": 45,
+      "guide": "Complete Chapter 4's story arc. Both guides report this as the chapter milestone; the remaining open-world trophies can be cleaned up after the campaign.",
+      "steps": ["Follow the main-story markers into Chapter 4.", "Complete its missions and final objective.", "Verify the chapter trophy after the story update."],
+      "tip": "Do not treat this as the last campaign award; the official list also has a final-mission trophy.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Chapter completion requirement corroborated by both guides.",
+      "checked": false
     },
     {
       "id": 7,
@@ -207,29 +128,15 @@
       "kind": "story",
       "missable": false,
       "stage": 2,
-      "count": null,
       "difficulty": 3,
-      "time": "Story · 60–80 h total",
-      "hours": 80,
-      "guide": "Finish the story's final mission to earn the gold. The sources agree on finishing the story but PowerPyx's named chapter endpoint appears inconsistent with its own five-chapter roadmap, so this guide does not assert that mission name. Free-roam continues afterward for cleanup.",
-      "steps": [
-        "Follow the main story through its final mission.",
-        "Let the conclusion finish and return to free-roam.",
-        "Open the newly available 100% checklist under Progress > Stats."
-      ],
-      "tip": "No mission replay is available; keep your last pre-finale save for your own reference.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "time": "Campaign finale; included in the story run",
+      "hours": 60,
+      "guide": "Finish the campaign's final mission. The requirement is clear in the official entry and both guides; PowerPyx's chapter label for the endpoint conflicts with its own five-chapter route, so use the actual final mission rather than that chapter number.",
+      "steps": ["Advance until the game offers the campaign finale.", "Complete the final mission objectives.", "Allow the post-mission result sequence to finish and check the trophy list."],
+      "tip": "Keep a manual save before the finale in case you want to explore earlier story states.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Final-mission requirement agreed; PowerPyx chapter endpoint is internally inconsistent.",
+      "checked": false
     },
     {
       "id": 8,
@@ -240,28 +147,15 @@
       "kind": "story",
       "missable": false,
       "stage": 2,
-      "count": null,
-      "difficulty": 2,
-      "time": "Story · Ch. 2",
-      "hours": 25,
-      "guide": "Breakfast Run is a Chapter 2 main mission and this trophy is awarded automatically for completing it. There is no need to optimize a score or repeat a route. Continue the story when the mission's objectives are done.",
-      "steps": [
-        "Reach Breakfast Run during Chapter 2.",
-        "Complete its main objectives and finish the mission."
-      ],
-      "tip": "Do optional tasks when convenient, but none is an extra condition for this story trophy.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "difficulty": 1,
+      "time": "Story mission; a short campaign milestone",
+      "hours": 1,
+      "guide": "Complete Breakfast Run when it becomes available. Both guides identify the mission by name as the unlock condition, so there is no separate collectible or score target to plan around.",
+      "steps": ["Open the available story mission marker.", "Complete Breakfast Run's objectives.", "Check for the trophy after the mission results."],
+      "tip": "Do story jobs as they appear so this one is not lost in the map clutter.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Named mission requirement corroborated by both guides.",
+      "checked": false
     },
     {
       "id": 9,
@@ -272,28 +166,15 @@
       "kind": "story",
       "missable": false,
       "stage": 2,
-      "count": null,
-      "difficulty": 3,
-      "time": "Story · Ch. 3",
-      "hours": 45,
-      "guide": "The Cartel Heist belongs to the Chapter 3 main-story route. Completing that mission awards this trophy; the optional bank-vault counter is a different requirement. Do not confuse it with Maximum Withdrawal.",
-      "steps": [
-        "Continue Chapter 3 until The Cartel Heist becomes available.",
-        "Finish the heist's story objectives."
-      ],
-      "tip": "You can leave the five optional bank vaults for the later robbery stage.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "difficulty": 2,
+      "time": "Story mission; included in the campaign estimate",
+      "hours": 2,
+      "guide": "Finish The Cartel Heist. Both source guides tie the award directly to this story mission; the campaign route is the only corroborated method needed here.",
+      "steps": ["Select the mission when its story marker appears.", "Complete the heist objectives and escape sequence.", "Wait for the result screen, then confirm the trophy."],
+      "tip": "Restock before starting a heist mission if the game offers a preparation window.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Named mission requirement corroborated by both guides.",
+      "checked": false
     },
     {
       "id": 10,
@@ -304,28 +185,15 @@
       "kind": "story",
       "missable": false,
       "stage": 2,
-      "count": null,
-      "difficulty": 2,
-      "time": "Story · Ch. 4",
-      "hours": 55,
-      "guide": "Complete Child's Play during Chapter 4 to unlock this automatic story trophy. There is no separately documented trophy condition beyond mission completion. Let the mission end before checking your list.",
-      "steps": [
-        "Follow the main route to Child's Play in Chapter 4.",
-        "Complete the mission and confirm the award."
-      ],
-      "tip": "Chapter saves provide a useful fallback even though this trophy itself is not missable.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "difficulty": 1,
+      "time": "Story mission; a short campaign milestone",
+      "hours": 2,
+      "guide": "Complete Child's Play as part of the campaign. The official requirement and both reference guides name the same mission, with no extra condition reported.",
+      "steps": ["Follow the active story prompt to Child's Play.", "Finish the mission's listed objectives.", "Confirm the award when control returns."],
+      "tip": "If the marker is absent, progress the main story and check the map again.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Named mission requirement corroborated by both guides.",
+      "checked": false
     },
     {
       "id": 11,
@@ -336,28 +204,15 @@
       "kind": "story",
       "missable": false,
       "stage": 2,
-      "count": null,
       "difficulty": 2,
-      "time": "Story · Ch. 4",
-      "hours": 55,
-      "guide": "Headliners is a Chapter 4 story mission, not a side activity or performance challenge. Finish the mission normally for the automatic trophy. No gold-medal objective is attached to it.",
-      "steps": [
-        "Reach Headliners through the Chapter 4 story.",
-        "Finish all active main objectives until the mission concludes."
-      ],
-      "tip": "Do not spend time hunting a hidden mission score; the guides do not require one.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "time": "Story mission; included in the campaign estimate",
+      "hours": 3,
+      "guide": "Complete Headliners when the story makes it available. Both guides agree on the mission trigger, and neither reports a medal, optional objective, or alternate route requirement.",
+      "steps": ["Take the Headliners mission from its available marker.", "Complete the mission objectives through its ending.", "Check the trophy list after the result transition."],
+      "tip": "Avoid leaving a mission midway if you are unsure whether a checkpoint has saved.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Named mission requirement corroborated by both guides.",
+      "checked": false
     },
     {
       "id": 12,
@@ -368,28 +223,15 @@
       "kind": "story",
       "missable": false,
       "stage": 2,
-      "count": null,
-      "difficulty": 3,
-      "time": "Story · Ch. 4",
-      "hours": 60,
-      "guide": "This is the automatic award for VCIA Takedown in Chapter 4. It is distinct from the free-roam passenger-jet trophy, Catch Me If You Can. Complete the scripted mission rather than trying to force an airport escape early.",
-      "steps": [
-        "Progress to VCIA Takedown in Chapter 4.",
-        "Complete the story mission."
-      ],
-      "tip": "Leave the separate passenger-jet departure for free-roam if it is still outstanding.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "difficulty": 2,
+      "time": "Story mission; included in the campaign estimate",
+      "hours": 3,
+      "guide": "Finish VCIA Takedown during the main story. The two checked guides give the same mission condition; they do not establish an additional completion grade.",
+      "steps": ["Follow the campaign until VCIA Takedown is offered.", "Complete its objectives and the mission exit.", "Verify the trophy after returning to free roam."],
+      "tip": "Keep a manual save before major story transitions if you prefer a checkpoint trail.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Named mission requirement corroborated by both guides.",
+      "checked": false
     },
     {
       "id": 13,
@@ -400,28 +242,15 @@
       "kind": "story",
       "missable": false,
       "stage": 2,
-      "count": null,
       "difficulty": 3,
-      "time": "Story · Ch. 5",
-      "hours": 70,
-      "guide": "Operation Savage Glory is listed by both guides as a Chapter 5 main mission. Its completion grants this trophy automatically. No optional character strand must be completed to satisfy this particular award.",
-      "steps": [
-        "Advance the main story into Chapter 5.",
-        "Finish Operation Savage Glory."
-      ],
-      "tip": "Check the trophy after the mission's completion sequence, not in the middle of an objective.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "time": "Story mission; included in the campaign estimate",
+      "hours": 4,
+      "guide": "Complete Operation Savage Glory. Both trophy guides identify this exact story mission as the unlock, so simply carry on through the campaign and finish it.",
+      "steps": ["Follow the story to the Operation Savage Glory marker.", "Complete the mission objectives and final encounter.", "Allow the mission to register before starting another activity."],
+      "tip": "Bring a full supply of health items or armor if the game allows preparation.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Named mission requirement corroborated by both guides.",
+      "checked": false
     },
     {
       "id": 14,
@@ -432,30 +261,15 @@
       "kind": "activities",
       "missable": false,
       "stage": 5,
-      "count": 100,
-      "difficulty": 4,
-      "time": "≈ 100 h after story",
+      "difficulty": 7,
+      "time": "Roughly 100 hours of checklist cleanup",
       "hours": 100,
-      "guide": "The checklist appears after the story at Progress > Stats > 100% Completion, and earlier progress carries over. It asks for selected thresholds rather than absolutely everything: 200 base-model scans, 100 animal studies, 300 stunts and 70 challenges are notable examples. All checklist content remains available in free-roam, so use its actual remaining rows as your cleanup plan.",
-      "steps": [
-        "Finish the story and open Progress > Stats > 100% Completion.",
-        "Complete every required robbery, all 8 bank vaults, 39 gang operations, underwater discoveries, range golds, drone races and Bret's 15 Target Decks.",
-        "Meet the remaining partial targets, including 100 optional missions, 200 vehicle scans, 100 animal studies, 15 meditations and 70 of 80 challenges.",
-        "Recheck the in-game checklist for every unfinished category."
-      ],
-      "tip": "A trophy popping is not the end of its category: stunts need 250 for silver but 300 for 100%.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "guide": "Reach the game's 100% completion total, the largest cleanup task and the published hardest trophy. Use the in-game checklist at Progress > Stats to identify missing categories; trophy thresholds can be lower than 100% targets, so track both separately.",
+      "steps": ["Finish the campaign so the remaining activities are available in free roam.", "Open Progress > Stats and review the 100% checklist category by category.", "Complete every listed requirement until the total reaches 100%.", "Recheck the list after each major activity block."],
+      "tip": "Treat the in-game checklist as the authority for completion credit instead of guessing from a trophy counter.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Both guides identify the 100% completion requirement; individual category totals are tracked in-game.",
+      "checked": false
     },
     {
       "id": 15,
@@ -467,28 +281,15 @@
       "missable": false,
       "stage": 4,
       "count": 250,
-      "difficulty": 4,
-      "time": "≈ 8–15 h",
-      "hours": 12,
-      "guide": "Any mixture of the 397 stunt opportunities can supply the 250 completions. The four groups are stunt jumps, flights under bridges, knife flights and base jumps; the extra challenge attached to a stunt is not required. For the platinum route, keep going to 300 for the separate 100% checklist.",
-      "steps": [
-        "Use Progress > Activities > Stunts to find weak categories or regions.",
-        "Complete new stunt spots across the four types until the trophy counter reaches 250.",
-        "Use Map > Exploration > Stunt Spots to distinguish completed spots from discoveries."
-      ],
-      "tip": "Under-bridge flights are recommended by both guides as a quick way to build the total.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "difficulty": 5,
+      "time": "Several hours of stunt attempts",
+      "hours": 8,
+      "guide": "Complete any mix of 250 stunts from jumps, under-bridge flights, knife flights, and base jumps. Both guides distinguish this threshold from the higher 300-stunt 100% target; under-bridge flights are described as a quick option, and the game tracks progress by region.",
+      "steps": ["Open Progress > Activities > Stunts to inspect category progress.", "Choose easy entries from any of the four stunt categories.", "Complete each stunt once; optional score challenges are not needed.", "Continue until the trophy counter reaches 250."],
+      "tip": "Record the counter after each session; the 100% target is higher than this trophy requirement.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "The 250-stunt trophy count is supported by both guides; routes to individual stunts vary.",
+      "checked": false
     },
     {
       "id": 16,
@@ -498,30 +299,16 @@
       "hidden": false,
       "kind": "activities",
       "missable": false,
-      "stage": 3,
-      "count": 9,
+      "stage": 4,
       "difficulty": 2,
-      "time": "≈ 1–3 h cleanup",
+      "time": "About 1–3 hours while exploring",
       "hours": 2,
-      "guide": "The activity counter covers nine types and most will happen while you pursue other trophies. Check Progress > Activities before traveling so you only visit missing types. Basketball needs an actual basket and the racing entry needs a win.",
-      "steps": [
-        "Check Progress > Activities for fishing, hunting, golf, shooting ranges and pool.",
-        "Add basketball, a video game, a race win and a stunt.",
-        "Verify all nine types have recorded progress."
-      ],
-      "tip": "Combine the arcade entry with Stick Fiddler and the range visit with The Shootist.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "guide": "Try the nine activity types once: fishing, hunting, golf, shooting range, pool, basketball, arcade game, a race win, and a stunt. The sources agree that simple participation is enough for most classes, with a basket for basketball and a victory for the race category; check Progress > Activities for what remains.",
+      "steps": ["Open Progress > Activities to see the category checklist.", "Try fishing, hunting, golf, shooting, pool, basketball, an arcade game, and a stunt.", "Sink one basket and win any race to complete those two categories.", "Recheck the list for any missing activity type."],
+      "tip": "Try new activities naturally during story downtime to avoid a dedicated cleanup sweep.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Both guides describe trying each activity class; nine is the published category count.",
+      "checked": false
     },
     {
       "id": 17,
@@ -533,28 +320,15 @@
       "missable": false,
       "stage": 4,
       "count": 42,
-      "difficulty": 4,
-      "time": "≈ 4–8 h",
+      "difficulty": 6,
+      "time": "Several hours; depends on medal retries",
       "hours": 6,
-      "guide": "You need all 42 gold medals across 12 ranges, not just one gold at each range. Shooting practice also develops Focus, which supports Gunslinger. Keep a challenge-level record so an overlooked silver medal does not survive the final sweep.",
-      "steps": [
-        "Visit each of the 12 Shooting Ranges.",
-        "Play and retry every challenge until its medal is gold.",
-        "Audit the full set for 42 golds before marking the trophy complete."
-      ],
-      "tip": "Work on this before Gunslinger so the Focus gained here reduces the pressure of its five-enemy window.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "guide": "Earn gold in all 42 Shooting Range challenges. Both sources agree on the all-gold condition and challenge total; improve weapon handling and repeat weak events until each medal is recorded.",
+      "steps": ["Find and enter the Shooting Range activity.", "Complete each of its 42 challenges.", "Replay any event below gold and adjust aim or timing.", "Verify that the challenge board shows gold for every entry."],
+      "tip": "Tune sensitivity and aim settings before starting the full medal run.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "The all-gold condition and 42 challenge count agree across the sources.",
+      "checked": false
     },
     {
       "id": 18,
@@ -566,28 +340,15 @@
       "missable": false,
       "stage": 4,
       "count": 14,
-      "difficulty": 3,
-      "time": "≈ 2–5 h",
-      "hours": 4,
-      "guide": "There are 14 drone-race locations, with three races per location. One win at each location is enough for this trophy, but the 100% route requires all 42 races. Finish a location's full set while you are there if you are aiming for platinum.",
-      "steps": [
-        "Locate a Top Fun race location and win a race there.",
-        "Repeat at all 14 distinct locations.",
-        "For the 100% route, finish the other two races at each location too."
-      ],
-      "tip": "Track locations for this trophy and individual races for 100%; those are different totals.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "difficulty": 4,
+      "time": "1–3 hours, depending on race retries",
+      "hours": 2,
+      "guide": "Win one Top Fun Drone Race at each of the 14 listed locations. The source guides agree that every location needs a victory, so revisit only the races without a recorded win.",
+      "steps": ["Locate a Top Fun Drone Race marker.", "Complete the drone course and finish first.", "Repeat at the remaining locations.", "Check the activity list for any location without a win."],
+      "tip": "Learn the drone's turning response in an early race before pushing for clean runs elsewhere.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Win-at-every-location requirement is listed by both guides.",
+      "checked": false
     },
     {
       "id": 19,
@@ -599,28 +360,15 @@
       "missable": false,
       "stage": 4,
       "count": 20,
-      "difficulty": 3,
-      "time": "≈ 3–6 h",
+      "difficulty": 4,
+      "time": "A few hours for twenty race wins",
       "hours": 4,
-      "guide": "Choose 20 different races from the 40 available. Repeating a race you already won does not add another unique win. Plan a route through new events and continue toward 30 unique wins if the 100% checklist still needs them.",
-      "steps": [
-        "Choose an uncompleted unique race.",
-        "Win it and note that event as finished.",
-        "Repeat at 19 other races, checking the unique-win counter."
-      ],
-      "tip": "Replay only to secure a first win; once won, move to a different event.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "guide": "Win 20 distinct races. Both guides confirm the number and the need for different events; repeat victories in one race do not replace trying new race entries.",
+      "steps": ["Use the activity list to find an uncompleted race.", "Finish the event in first place.", "Choose a different race for each subsequent win.", "Review the race record until 20 distinct wins register."],
+      "tip": "Keep a short list of race names you have already won to avoid duplicate attempts.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Both sources specify victories in 20 different races.",
+      "checked": false
     },
     {
       "id": 20,
@@ -630,30 +378,16 @@
       "hidden": false,
       "kind": "activities",
       "missable": false,
-      "stage": 3,
-      "count": null,
+      "stage": 4,
       "difficulty": 2,
-      "time": "≈ 20–45 min",
-      "hours": 0.75,
-      "guide": "Cal's fishing invitation follows meeting him in Feng Shui during Chapter 1. His text marks the fishing activity with a purple icon, so use that quest rather than fishing at an arbitrary shoreline. Beat him in the challenge for the trophy.",
-      "steps": [
-        "Meet Cal through Feng Shui in Chapter 1.",
-        "Read his fishing invitation and follow the purple quest marker.",
-        "Complete the challenge with a result that beats Cal."
-      ],
-      "tip": "A normal fishing session alone does not satisfy the named challenge.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "time": "One fishing challenge plus setup",
+      "hours": 1,
+      "guide": "After Feng Shui in Chapter 1, Cal texts Jason and marks a fishing location; play his quest sequence and beat him in the challenge. GTABase supplies the quest trigger while PowerPyx confirms the trophy's opponent-and-challenge requirement, with no named catch required by either guide.",
+      "steps": ["Complete Feng Shui and wait for Cal's fishing message.", "Follow the purple fishing marker into his quest strand.", "Enter Cal's challenge and finish with the higher result.", "Confirm the trophy after the challenge summary."],
+      "tip": "Read the challenge objective before casting so you know which catch or score matters.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Cal's challenge condition is shared; GTABase adds the Chapter 1 message and fishing-quest setup.",
+      "checked": false
     },
     {
       "id": 21,
@@ -663,29 +397,16 @@
       "hidden": false,
       "kind": "activities",
       "missable": false,
-      "stage": 3,
-      "count": null,
-      "difficulty": 3,
-      "time": "≈ 30–90 min",
+      "stage": 4,
+      "difficulty": 2,
+      "time": "One arcade game",
       "hours": 1,
-      "guide": "You must reach the ending of one arcade game; merely playing a round is not enough. Three games are playable on the home TV and Bang For Your Buck is on arcade cabinets. Extra challenges inside the chosen game are not needed.",
-      "steps": [
-        "Choose Tenebrae Lux, Street Trash III or Time Jackers Rewind at home, or Bang For Your Buck at a cabinet.",
-        "Finish all levels in that one game."
-      ],
-      "tip": "Pick the game you find easiest rather than dividing your time across all four.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "guide": "Reach the end of any one arcade game. Both guides agree that a full completion is enough; the current list includes home-console games and public cabinets, so choose whichever is available first.",
+      "steps": ["Start an arcade game at home or at an available cabinet.", "Play through its complete round or ending sequence.", "Wait for the game to record the completion before leaving."],
+      "tip": "Choose a cabinet whose rules are clear before spending time on a more complex game.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Both guides state the one-game completion condition; no cabinet-specific method is confirmed.",
+      "checked": false
     },
     {
       "id": 22,
@@ -696,29 +417,15 @@
       "kind": "story",
       "missable": false,
       "stage": 3,
-      "count": null,
       "difficulty": 2,
-      "time": "≈ 1–3 h",
-      "hours": 2,
-      "guide": "Andy's strand starts for Lucia in Chapter 3 via a call and address message for Belville. Follow the five-job chain through Puff Puff Pass; the last job gives the award. These missions remain available after the story.",
-      "steps": [
-        "Play as Lucia and respond to Andy's Chapter 3 invitation.",
-        "Complete Climbing the Cellerichain, Pay the Cellerica Fee and Peach!.",
-        "Finish Read the Label, then Puff Puff Pass."
-      ],
-      "tip": "This named character chain does not count toward the eight qualifying stranger strands.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "time": "Character quest strand; allow time for its full sequence",
+      "hours": 3,
+      "guide": "Finish Andy's complete stranger strand and its final mission. GTABase identifies it as a Lucia-only run beginning in Chapter 3; PowerPyx confirms the end-of-strand award, so continue with the game's contact prompts until the final job appears.",
+      "steps": ["Look for Andy's stranger activity when it appears in free roam.", "Complete the available missions in his strand.", "Continue until the game marks his final mission complete.", "Check the trophy list after the strand resolves."],
+      "tip": "Keep a note of the last completed Andy mission if the next contact takes time to appear.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Final mission condition is shared; a detailed strand sequence is not corroborated by both sources.",
+      "checked": false
     },
     {
       "id": 23,
@@ -729,29 +436,15 @@
       "kind": "story",
       "missable": false,
       "stage": 3,
-      "count": 7,
-      "difficulty": 3,
-      "time": "≈ 2–4 h",
+      "difficulty": 2,
+      "time": "Character quest strand; timing varies by unlocks",
       "hours": 3,
-      "guide": "Kenton's treasure jobs involve seven shipwrecks and return deliveries. The KR marker in Key Lento follows Island Dreams in Chapter 1; later temporary absence is not a missable lockout. When he contacts Jason again, continue the remaining sets.",
-      "steps": [
-        "Respond to Kenton's KR marker and collect the marked underwater treasures.",
-        "Use the metal detector at the purple chest locations and return the haul.",
-        "Wait for subsequent calls, then repeat until all seven shipwrecks and the final job are done."
-      ],
-      "tip": "Progress > Collections > Kenton's Treasures helps distinguish an unfinished set from a contact who is temporarily unavailable.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "guide": "Complete Kenton's treasure strand and its closing mission. GTABase describes the Chapter 1 shipwreck search and later follow-up texts to Jason; PowerPyx confirms the final-mission trophy, so track the green KR contacts when they return.",
+      "steps": ["Check the map and contacts for Kenton's available job.", "Finish each currently offered strand mission.", "Return when another Kenton prompt appears and continue to its final job.", "Verify the award after the mission ends."],
+      "tip": "If a strand pauses, advance the story or time only as the game itself suggests, then recheck the map.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Final mission condition is shared; no jointly verified full trigger route is published.",
+      "checked": false
     },
     {
       "id": 24,
@@ -762,62 +455,35 @@
       "kind": "story",
       "missable": false,
       "stage": 3,
-      "count": null,
       "difficulty": 2,
-      "time": "≈ 1–3 h",
-      "hours": 2,
-      "guide": "Billy's five-job chain opens after Coffee Break in Chapter 2 at Thrillbilly Mudclub in Kelly County. Finish through Hometown Heroes for the trophy. The chain stays available after the story, so there is no need to interrupt the main route if you prefer cleanup later.",
-      "steps": [
-        "After Coffee Break, start Billy's jobs at Thrillbilly Mudclub.",
-        "Complete Thrillbillies, Twist Wrist, Smash, Grab, Mall Rats and The Impaler.",
-        "Finish Hometown Heroes."
-      ],
-      "tip": "Billy has his own trophy but his strand is not one of the qualifying eight for Strangers & Freaks.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "time": "Character quest strand; allow for multiple visits",
+      "hours": 3,
+      "guide": "Complete Billy's five-job strand, ending with Hometown Heroes. Both guides identify the strand's final job as the unlock and place its start after Coffee Break at the Thrillbilly Mudclub; the jobs remain available after the story.",
+      "steps": ["Find Billy's currently available stranger mission.", "Complete the mission and any follow-up the game offers.", "Return to the strand when a new prompt appears.", "Finish Billy's final job and check the trophy list."],
+      "tip": "Revisit the map between story sessions so a newly available stranger marker does not sit unnoticed.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Final mission condition is shared; exact strand triggers are not fully corroborated.",
+      "checked": false
     },
     {
       "id": 25,
       "name": "Strangers & Freaks",
       "description": "Complete 8 mission strands for strangers across the state of Leonida.",
       "grade": "silver",
-      "hidden": false,
+      "hidden": true,
       "kind": "activities",
       "missable": false,
       "stage": 3,
       "count": 8,
-      "difficulty": 3,
-      "time": "≈ 6–12 h",
-      "hours": 10,
-      "guide": "Not every optional contact counts as a stranger strand. Both guides confirm Kirk, Kyle, Yago and Pilot Pete, but do not yet give a complete verified list of eight. Use the PlayStation trophy counter after finishing a whole chain; Andy, Billy, Tyrone, Moses, Yasmani and Eddie do not count.",
-      "steps": [
-        "Finish the full quest chains for confirmed strangers Kirk, Kyle, Yago and Pilot Pete.",
-        "Check the trophy counter after each completed chain.",
-        "Complete other stranger strands and count only those that advance it until you reach eight."
-      ],
-      "tip": "Do not assume an individual optional mission counts as an entire strand; the remaining qualifying names are still being confirmed.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "difficulty": 5,
+      "time": "Several hours across multiple stranger chains",
+      "hours": 8,
+      "guide": "Complete eight qualifying stranger mission strands across Leonida. Four example strands are confirmed in the current guides, but neither provides a complete, jointly confirmed qualifying roster; use the trophy counter to determine which strands count on your save.",
+      "steps": ["Open each stranger activity when its marker or contact becomes available.", "Continue a strand until its final mission is complete.", "Check whether the trophy counter advances after each finished strand.", "Keep completing distinct strands until eight are credited."],
+      "tip": "Track strand names and the in-game counter together; a single side mission may not complete a full strand.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "The eight-strand count is confirmed; published examples do not yet establish a full qualifying list.",
+      "checked": false
     },
     {
       "id": 26,
@@ -828,29 +494,15 @@
       "kind": "story",
       "missable": false,
       "stage": 3,
-      "count": 16,
-      "difficulty": 3,
-      "time": "≈ 2–5 h",
-      "hours": 4,
-      "guide": "Randy's Wish List opens after the Chapter 3 Key Cloner mission, Clonin' Keys, Makin' GS. Deliver the 16 requested sports cars; WAiNK scanning identifies whether a model belongs to his list. The green RK destination is his garage in west Vice City and remains available after the story.",
-      "steps": [
-        "Complete the Key Cloner story introduction for Randy.",
-        "Review Map > Robberies > Randy's Wish List and scan candidate sports cars.",
-        "Steal and deliver the requested models until the list is complete."
-      ],
-      "tip": "Hotel areas around Vice Beach and Ocean Beach are useful places to look; undamaged deliveries pay better.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "difficulty": 2,
+      "time": "Character quest strand; allow for follow-up jobs",
+      "hours": 3,
+      "guide": "Finish Randy's Wish List strand and closing mission. GTABase places the request after the Chapter 3 Key Cloner progression and has you deliver the listed sports cars to his Vice City garage; PowerPyx confirms the final-mission trophy.",
+      "steps": ["Check for Randy's stranger mission in the current free-roam area.", "Complete the available job and its prompted follow-up.", "Return to the map or contact after any new strand marker appears.", "Finish the last mission and verify the award."],
+      "tip": "Leave a little free-roam time between missions if the next strand prompt has not appeared yet.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Final mission condition is shared; exact unlock sequence is not jointly documented.",
+      "checked": false
     },
     {
       "id": 27,
@@ -861,62 +513,35 @@
       "kind": "story",
       "missable": false,
       "stage": 3,
-      "count": null,
-      "difficulty": 3,
-      "time": "≈ 1–3 h",
-      "hours": 2,
-      "guide": "Tyrone's lab strand is available as Jason after Here, Kitty Kitty in Chapter 3. Clear the purple synthetic-lab objectives until he offers the concluding mission. Lucia cannot start this chain, but it remains available after the story.",
-      "steps": [
-        "Switch to Jason after Here, Kitty Kitty.",
-        "Destroy the synthetic labs marked for Take Out Kitty Litter.",
-        "Complete the concluding Spin On This job when offered."
-      ],
-      "tip": "If the marker seems missing, verify you are controlling Jason before waiting or traveling.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "difficulty": 2,
+      "time": "Character quest strand; length depends on unlock timing",
+      "hours": 3,
+      "guide": "Complete Tyrone's synthetic-lab jobs and final mission, Shut Down the Labs. Both guides support the closing-job requirement; the strand opens after the Chapter 3 Here, Kitty Kitty progression, and purple lab prompts show its current targets.",
+      "steps": ["Look for Tyrone's stranger marker or message.", "Complete the currently available strand mission.", "Continue when additional Tyrone jobs become available.", "Finish the last job and confirm the trophy."],
+      "tip": "Check both the map and contact messages after advancing the main story.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Final mission condition is shared; full trigger details are not corroborated by both guides.",
+      "checked": false
     },
     {
       "id": 28,
       "name": "Positive Mental Attitude",
       "description": "Meditate at every spot across Leonida.",
       "grade": "bronze",
-      "hidden": false,
+      "hidden": true,
       "kind": "missable",
       "missable": true,
       "stage": 1,
       "count": 18,
-      "difficulty": 2,
-      "time": "≈ 1–3 h + story access",
-      "hours": 2,
-      "guide": "Both guides warn that Lucia's Chapter 1 balcony meditation may be required, though that requirement is not yet confirmed. After Down to Earth, speak with her at Jason's house in the morning and follow her to the balcony; accept the meditation before Chapter 1 ends. The complete route totals 18 meditations across 10 locations, using both characters where applicable.",
-      "steps": [
-        "Keep a Chapter 1 save; after Down to Earth, talk to Lucia in the kitchen in the morning and accept her balcony meditation.",
-        "After Coffee Break in Chapter 2, revisit meditation spots with both Jason and Lucia.",
-        "Track Progress > Collections > Exploration > Meditations until every spot and the 18-count target are complete."
-      ],
-      "tip": "The checklist only asks for 15 meditations. Keep going for the trophy, and do the early balcony scene even while its necessity remains uncertain.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "difficulty": 3,
+      "time": "Several visits; include the early Chapter 1 opportunity",
+      "hours": 4,
+      "guide": "Meditate at all 18 spots with Jason and Lucia; the published route groups them across ten locations. The early Chapter 1 balcony meditation at Jason's home is potentially missable, so take it before leaving that chapter, then revisit the remaining spots as both characters become available.",
+      "steps": ["After Down to Earth in Chapter 1, talk to Lucia in Jason's kitchen the next morning.", "Follow Lucia to the balcony and accept the meditation before that chapter ends.", "After Coffee Break unlocks both characters, complete the remaining spots with Jason and Lucia.", "Check the meditation counter until it records all 18."],
+      "tip": "Do the balcony meditation immediately when offered; this is the only possibly missable trophy reported by both guides.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Both sources flag the Chapter 1 opportunity as possibly missable and describe 18 total meditations; exact necessity remains uncertain.",
+      "checked": false
     },
     {
       "id": 29,
@@ -924,32 +549,18 @@
       "description": "Hunt a unique animal for Bret.",
       "grade": "bronze",
       "hidden": true,
-      "kind": "story",
+      "kind": "activities",
       "missable": false,
       "stage": 3,
-      "count": null,
       "difficulty": 3,
-      "time": "≈ 2–5 h",
-      "hours": 4,
-      "guide": "Bret contacts Jason after Coffee Break in Chapter 2, opening Veteran Hunted in Lummox County. Follow his Target Deck requests and return hunted animals to him. Neither source confirms which exact animal triggers this trophy, so the safe platinum route is to finish all 15 Target Decks required for 100%.",
-      "steps": [
-        "As Jason, respond to Bret's invitation and finish Veteran Hunted.",
-        "Hunt the requested animals at his marked targets and return them.",
-        "Continue the Target Decks, watching for the trophy; finish all 15 for 100%."
-      ],
-      "tip": "Clean single-shot kills improve payment but are not a documented condition for this trophy.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "time": "One Bret hunting request, plus travel",
+      "hours": 2,
+      "guide": "After Coffee Break, Jason receives Bret's message for Veteran Hunted in Lummox County. Follow Bret's purple Target Deck requests, hunt the animal he names, and bring it back as Jason; neither guide confirms which individual animal triggers the trophy, so keep the deck counter in view.",
+      "steps": ["After Coffee Break, play as Jason and accept Bret's message for Veteran Hunted.", "Complete the first hunt to reveal Bret's purple Target Deck markers.", "Hunt the requested animal and return it to Bret as Jason.", "Check the trophy list and Target Deck progress; the triggering animal is still unconfirmed."],
+      "tip": "Record Bret's requested species before leaving the mission area so you do not confuse it with ordinary wildlife.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "The unique-animal request is supported; the exact species and location are not confirmed across both sources.",
+      "checked": false
     },
     {
       "id": 30,
@@ -961,28 +572,15 @@
       "missable": false,
       "stage": 4,
       "count": 3,
-      "difficulty": 3,
-      "time": "≈ 2–5 h",
-      "hours": 4,
-      "guide": "Complete three whole sets rather than collecting three individual cards. The Collections section in Progress shows which sets are closest, so concentrate on nearly finished sets before starting distant ones. The trophy does not require every set.",
-      "steps": [
-        "Open Progress > Collections and identify your nearest complete card sets.",
-        "Find the missing cards for a selected set and confirm it is complete.",
-        "Repeat until three sets are complete."
-      ],
-      "tip": "Keep a note of missing cards per set; scattering pickups across many sets postpones the trophy.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "difficulty": 4,
+      "time": "Several collection sessions; depends on travel",
+      "hours": 6,
+      "guide": "Complete three full collectible card sets. The current guides confirm the set count but their public summaries do not agree on a complete, reliable card-by-card route; track each set in the game's collection menu and use its remaining-card clues.",
+      "steps": ["Open the collectible tracker and note which card sets are incomplete.", "Search for cards using in-game hints and map discoveries.", "Complete each card set before beginning a fourth.", "Confirm all three sets show complete."],
+      "tip": "Keep separate notes for each set so duplicate finds do not look like new collection progress.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Both guides confirm three sets; a complete itemized location route is not jointly published.",
+      "checked": false
     },
     {
       "id": 31,
@@ -994,28 +592,15 @@
       "missable": false,
       "stage": 4,
       "count": 100,
-      "difficulty": 3,
-      "time": "≈ 4–8 h",
-      "hours": 6,
-      "guide": "Scan 100 environmental WAiNK locations, not 100 vehicles. Landmarks, curiosities, sculptures and No Flusher tags contribute; there are more spots than the trophy needs. Use the WAiNK app on new environmental targets as you travel between other objectives.",
-      "steps": [
-        "Open WAiNK and scan new environmental targets.",
-        "Mix landmarks, curiosities, sculptures and No Flusher tags.",
-        "Check the location-scan counter until it reaches 100."
-      ],
-      "tip": "Vehicle scans contribute to Whip It Good, a separate counter; do not confuse the two WAiNK tasks.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "difficulty": 4,
+      "time": "Several hours of map exploration",
+      "hours": 5,
+      "guide": "Use WAiNK at 100 different locations. Both sources agree on the threshold; make each scan at a distinct spot and rely on the counter rather than repeating familiar locations.",
+      "steps": ["Open the WAiNK app while exploring a new area.", "Use its location check and let the game register the result.", "Move to a different location before scanning again.", "Continue until the tracker records 100."],
+      "tip": "Scan while travelling between other objectives to reduce backtracking.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Both guides state the 100-location threshold.",
+      "checked": false
     },
     {
       "id": 32,
@@ -1025,30 +610,17 @@
       "hidden": false,
       "kind": "activities",
       "missable": false,
-      "stage": 5,
+      "stage": 4,
       "count": 50,
-      "difficulty": 3,
-      "time": "≈ 2–6 h cleanup",
+      "difficulty": 4,
+      "time": "Ongoing; progress during the story and cleanup",
       "hours": 4,
-      "guide": "There are 80 challenges and this trophy needs any 50. Progress > Challenges marks finished entries, so review that list after other trophies have filled many of them naturally. For A Long Road, continue to 70 rather than stopping here.",
-      "steps": [
-        "Finish ordinary activities and robberies before deliberately grinding challenges.",
-        "Open Progress > Challenges and look for the completed checkmarks.",
-        "Choose the quickest remaining challenges until 50 are done; continue to 70 for 100%."
-      ],
-      "tip": "You can skip ten challenges even on the 100% route, so leave the hardest ones.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "guide": "Complete 50 challenges from the game's challenge categories. The source guides support the trophy threshold and distinguish it from a larger 100% checklist total; use the in-game challenge page to see what counts.",
+      "steps": ["Open the challenge page and review available categories.", "Choose challenges that fit your current activities.", "Complete one objective and verify that its status changes.", "Repeat across categories until the game records 50 completed challenges."],
+      "tip": "Work on easy challenges alongside other trophies, then use the tracker to identify the remaining types.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Both sources confirm the 50-challenge trophy count; the separate 100% checklist uses a higher target.",
+      "checked": false
     },
     {
       "id": 33,
@@ -1059,29 +631,15 @@
       "kind": "activities",
       "missable": false,
       "stage": 4,
-      "count": null,
-      "difficulty": 3,
-      "time": "≈ 10–30 min",
-      "hours": 0.5,
-      "guide": "Joint free-roam unlocks after Coffee Break in Chapter 2. Bring your partner, reach four stars and escape the red heat zone, not merely the immediate flashing pursuit area. Bank-vault jobs generate the required wanted level and can supply this naturally.",
-      "steps": [
-        "After Coffee Break, call your partner to join you.",
-        "Reach a four-star wanted level, for example during a bank-vault robbery.",
-        "Escape together beyond the red heat zone; the train tunnel north of Ambrosia in Kelly County helps break pursuit."
-      ],
-      "tip": "Keep your partner with you for the escape, and wait for the heat-zone exit rather than stopping when police lose sight.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "difficulty": 4,
+      "time": "One coordinated Wanted Level escape",
+      "hours": 1,
+      "guide": "With your partner, reach a four-star Wanted Level and escape it. Both sources agree on the star level, partner requirement, and successful escape; they do not require a named district or vehicle in the shared method.",
+      "steps": ["Start free roam with your partner available.", "Build the Wanted Level to four stars while staying together.", "Break line of sight and evade until the Wanted Level clears.", "Check for the award before separating."],
+      "tip": "Plan an escape route before raising the alert so you can focus on staying together once pursuit begins.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "The four-star partner escape condition is supported by both guides.",
+      "checked": false
     },
     {
       "id": 34,
@@ -1093,28 +651,15 @@
       "missable": false,
       "stage": 4,
       "count": 3,
-      "difficulty": 3,
-      "time": "≈ 15–40 min",
-      "hours": 0.75,
-      "guide": "You must stay in an active flashing red/blue wanted pursuit between three shop robberies with your partner. The three jewelry stores in north Vice City offer a compact route after Yasmani's Jewelry Jobs. The award may arrive around half a minute after leaving the third shop.",
-      "steps": [
-        "Call your partner and stock armor and healing items.",
-        "Rob three shops consecutively while keeping the flashing wanted level active.",
-        "Loot items in each shop, then wait for the delayed award; use a fourth shop if needed."
-      ],
-      "tip": "Do not leave the first shop before the police arrive or you may need an extra robbery to establish the chain.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "difficulty": 5,
+      "time": "One planned three-stop robbery run",
+      "hours": 2,
+      "guide": "Rob three shops consecutively with your partner while keeping the Wanted Level active between stops. Both sources describe the same sequence; a cleared alert breaks the run, so prepare a route before starting.",
+      "steps": ["Choose a partner and identify three shop targets in advance.", "Rob the first shop and leave with the Wanted Level active.", "Reach the next two shops and rob each without clearing the alert.", "Escape only after the third robbery registers."],
+      "tip": "Use nearby targets and a durable getaway vehicle to reduce the chance of losing pursuit between robberies.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Three shops, partner, and continuous Wanted Level are stated by both guides.",
+      "checked": false
     },
     {
       "id": 35,
@@ -1126,28 +671,15 @@
       "missable": false,
       "stage": 4,
       "count": 100,
-      "difficulty": 2,
-      "time": "≈ 1–3 h cleanup",
-      "hours": 2,
-      "guide": "Scanning a new vehicle with WAiNK is enough; driving it is unnecessary. A busy roadside lets you add different models quickly. The 100% checklist goes further with 200 base models, so begin scanning early and this trophy should arrive along that route.",
-      "steps": [
-        "Use WAiNK to scan different passing or parked vehicles.",
-        "Check Progress > Vehicles for discovered totals.",
-        "Continue until 100 discoveries are registered."
-      ],
-      "tip": "Scan boats and aircraft too during the larger 200-base-model platinum task.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "difficulty": 3,
+      "time": "Steady progress through exploration",
+      "hours": 4,
+      "guide": "Scan 100 distinct vehicles with the WAiNK phone app; driving them is unnecessary. Both guides separate this trophy's 100 scans from the 200 base-model scans for full completion, and scanning passing traffic is a practical way to find new entries.",
+      "steps": ["Open WAiNK from the phone while exploring.", "Aim at an unfamiliar vehicle and scan it to add the entry.", "Check Progress > Vehicles to confirm the discovery.", "Scan distinct models until the trophy counter reaches 100."],
+      "tip": "Stand near a busy road and scan new traffic; you do not need to steal or drive each vehicle.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "The 100-vehicle trophy count is confirmed; the 100% checklist has a higher vehicle scan target.",
+      "checked": false
     },
     {
       "id": 36,
@@ -1160,93 +692,52 @@
       "stage": 4,
       "count": 5,
       "difficulty": 4,
-      "time": "≈ 10–30 min",
-      "hours": 0.5,
-      "guide": "Prepare a full Focus bar and a group of gang enemies before activating Combat Focus. An assault rifle and Adrenaline make the short window more manageable. Both guides report that police, soldiers and civilians do not reliably count, so use criminals at a gang operation.",
-      "steps": [
-        "Build Focus through range practice and refill it with food, drink or washing at home.",
-        "Equip an assault rifle and armor; line up at least five gang enemies.",
-        "Activate Combat Focus once while aiming and down all five before it ends."
-      ],
-      "tip": "Do this after range golds have improved your Focus rather than forcing it early with a short bar.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "time": "One well-prepared combat encounter",
+      "hours": 1,
+      "guide": "Take down five enemies during a single Combat Focus use. Both sources recommend building Focus first and engaging several targets together; PowerPyx suggests an Illegal Operation as a convenient group encounter, while Adrenaline can extend the effect.",
+      "steps": ["Raise Focus through other activities or prepare with food, drink, or a shower.", "Find a group of at least five enemies, such as at an Illegal Operation.", "Use Adrenaline if available, then activate Combat Focus while aiming.", "Take down five targets before the same Focus activation ends."],
+      "tip": "Line up the group first so the short Combat Focus window is spent on takedowns.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Five takedowns during one Combat Focus use is supported by both guides.",
+      "checked": false
     },
     {
       "id": 37,
       "name": "Catch Me If You Can",
       "description": "Make an unscheduled departure at VCIA.",
       "grade": "bronze",
-      "hidden": true,
+      "hidden": false,
       "kind": "activities",
       "missable": false,
-      "stage": 4,
-      "count": null,
+      "stage": 2,
       "difficulty": 3,
-      "time": "≈ 15–30 min",
-      "hours": 0.5,
-      "guide": "Steal a large passenger jet docked at a VCIA terminal boarding bridge; a plane parked out on the airfield is not sufficient. Both sources identify gates E3/E4 as a convenient option. The unlock is delayed until you have flown roughly a kilometer from the airport.",
-      "steps": [
-        "Reach a passenger jet connected to a boarding bridge at VCIA, such as E3/E4.",
-        "Enter via the nearby boarding access, reach the upstairs cockpit and back the jet onto the airstrip.",
-        "Take off and fly about 1 km away."
-      ],
-      "tip": "Keep flying after takeoff; simply entering the jet is not the trigger.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "time": "One airport diversion attempt",
+      "hours": 1,
+      "guide": "At VCIA, steal a passenger jet that is parked at a departure gate and fly roughly one kilometre away. Both guides agree that a gate aircraft counts while a plane sitting on the open airfield does not; the E3/E4 gates are the published easiest approach.",
+      "steps": ["Reach VCIA and find a large passenger jet attached to a departure gate bridge.", "Take the aircraft, back it away from the gate, and get airborne.", "Fly about one kilometre from the airport before returning to safety.", "Check for the trophy after the departure registers."],
+      "tip": "Use a save before the attempt and avoid planes parked away from boarding bridges, which the sources say do not count.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Both guides describe stealing a passenger jet at a departure gate and escaping VCIA; GTABase details the distance and easiest gates.",
+      "checked": false
     },
     {
       "id": 38,
       "name": "Challenging Tank",
       "description": "Kinda hot in these Rhinos.",
       "grade": "bronze",
-      "hidden": true,
+      "hidden": false,
       "kind": "activities",
       "missable": false,
       "stage": 4,
-      "count": null,
       "difficulty": 3,
-      "time": "≈ 15–30 min",
-      "hours": 0.5,
-      "guide": "The method confirmed by both guides is to steal a tank and defeat enemies while inside it. Tanks are at the southern part of Mile Zero Air Station on the southwest island in Mariana County. Entering the tank alone may not trigger the award, so continue with its weapons.",
-      "steps": [
-        "Travel to Mile Zero Air Station in southwest Mariana County.",
-        "Find and enter a tank at the south end of the base.",
-        "Defeat enemies from inside the tank until the trophy unlocks."
-      ],
-      "tip": "Make a manual save before entering the base so an unsuccessful attempt is easy to retry.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "time": "Method not yet confirmed",
+      "hours": 1,
+      "guide": "Steal a Rhino tank at Mile Zero Air Station and use it to defeat enemies. Both guides locate the tanks at the south end of the base on the southwest island of Mariana County; enter one and fight from inside until the award appears.",
+      "steps": ["Travel to Mile Zero Air Station on the southwest island.", "Reach the southern part of the base and get into a Rhino tank.", "Use the tank to defeat enemies while remaining inside.", "Wait for the trophy notification before leaving."],
+      "tip": "Approach with a save and a clear exit route; the air base is an exposed target area.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Both guides identify the Mile Zero Air Station tank and defeating enemies from inside it.",
+      "checked": false
     },
     {
       "id": 39,
@@ -1257,29 +748,15 @@
       "kind": "activities",
       "missable": false,
       "stage": 4,
-      "count": null,
-      "difficulty": 3,
-      "time": "≈ 15–30 min",
-      "hours": 0.5,
-      "guide": "Yasmani's Jewelry Jobs in Chapter 3 unlocks the Snap Gun and jewelry robberies. Enter through a store's locked back door with the Snap Gun, find the safe-code note and empty the safe unseen. PowerPyx also advises disabling the alarm and destroying security footage before leaving.",
-      "steps": [
-        "Finish Yasmani's Jewelry Jobs to obtain the Snap Gun.",
-        "Use it on a jewelry store's rear door instead of kicking it open.",
-        "Find the code, empty the safe unseen, disable the alarm and remove security footage, then leave."
-      ],
-      "tip": "Richardson Jewelry & Diamonds in Vice City is cited by both guides as a suitable store.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "difficulty": 5,
+      "time": "One stealth robbery plus retries if spotted",
+      "hours": 2,
+      "guide": "Use the Snap Gun from Yasmani's Jewelry Jobs to enter a jewelry store through its locked rear door, find the safe code, and empty the safe without an alarm. Both guides support the stealth robbery; the Yasmani setup is the shared route.",
+      "steps": ["Progress Yasmani's Chapter 3 Jewelry Jobs until the Snap Gun is available.", "Use it on the store's locked back door instead of forcing the front.", "Read the note for the safe code and take the contents quietly.", "Leave without detection and confirm the trophy."],
+      "tip": "Make a save before the attempt so a detection failure does not cost a long setup.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "The undetected jewelry-store robbery requirement agrees across both sources; store-specific steps are not corroborated.",
+      "checked": false
     },
     {
       "id": 40,
@@ -1291,29 +768,15 @@
       "missable": false,
       "stage": 4,
       "count": 5,
-      "difficulty": 3,
-      "time": "≈ 2–4 h",
-      "hours": 3,
-      "guide": "Bank-vault jobs open with the Chapter 4 optional mission That's Where The Money Is…. Tail the security van and enter while the guard has the vault open, bringing your partner for the cash bags. Five successful vault escapes earn silver, but all eight are needed for 100%.",
-      "steps": [
-        "Finish That's Where The Money Is… in Chapter 4.",
-        "Follow a security van to a bank and enter its open vault with your partner.",
-        "Take the cash, hand off a bag and escape the four-star heat.",
-        "Repeat at new vault jobs until five are complete; continue to eight for the checklist."
-      ],
-      "tip": "After his prerequisite jobs, Yasmani sells security-van tips for $10,000; prepare a fast bike before starting.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "difficulty": 5,
+      "time": "Multiple robberies and getaway attempts",
+      "hours": 5,
+      "guide": "Complete five bank-vault robberies and escape. Both sources point to the optional Chapter 4 That's Where The Money Is… mission, a security-van follow, and a partner carrying the second bag; five vaults earns the trophy, while the 100% checklist asks for eight.",
+      "steps": ["Find an available bank vault job or robbery prompt.", "Complete the vault robbery and leave the area successfully.", "Confirm that the completed escape advances the counter.", "Repeat at four more distinct vault opportunities."],
+      "tip": "Use the in-game activity log to distinguish a completed robbery from one where you escaped before the vault counted.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Five vault escapes are confirmed; the full-completion checklist asks for a higher total.",
+      "checked": false
     },
     {
       "id": 41,
@@ -1324,29 +787,15 @@
       "kind": "activities",
       "missable": false,
       "stage": 4,
-      "count": null,
       "difficulty": 3,
-      "time": "≈ 15–30 min",
-      "hours": 0.5,
-      "guide": "The bank-vault introduction in That's Where The Money Is… can also satisfy this armored-truck trophy. Follow the cash delivery into the bank, steal the haul and complete the escape. Combining it with Maximum Withdrawal avoids a separate truck hunt.",
-      "steps": [
-        "Start the Chapter 4 optional bank-vault introduction.",
-        "Follow the security truck, steal the delivered cash and leave.",
-        "Escape the red heat zone or use a Pay 'n' Spray."
-      ],
-      "tip": "Check for this trophy after the escape; simply looting the vehicle or vault is not the whole requirement.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "time": "One armored-truck robbery and getaway",
+      "hours": 1,
+      "guide": "Rob an Armored Truck and get clear of the red heat zone or reach a Pay 'n' Spray. Both guides agree that an armored-truck robbery and successful escape satisfy this trophy; a bank-vault robbery can also count when the escape condition is met.",
+      "steps": ["Watch for an Armored Truck robbery opportunity in free roam.", "Start the encounter when its prompt or event is active.", "Take the truck's contents and escape the search area.", "Confirm the trophy after the wanted response ends."],
+      "tip": "Keep a clear route away from the encounter area before initiating the robbery.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Armored Truck robbery and successful escape are stated by both guides; no spawn is specified here.",
+      "checked": false
     },
     {
       "id": 42,
@@ -1357,29 +806,16 @@
       "kind": "collectibles",
       "missable": false,
       "stage": 4,
-      "count": null,
-      "difficulty": 2,
-      "time": "≈ 1–3 h",
-      "hours": 2,
-      "guide": "This is a map-fog task rather than a requirement to finish every location's activity. Fly over the remaining dark patches until the full map is visible. A plane covers large gaps faster than road travel.",
-      "steps": [
-        "Open the map and identify fogged regions.",
-        "Fly across the dark patches, checking map coverage between passes.",
-        "Sweep small remaining gaps until the whole state is revealed."
-      ],
-      "tip": "Do this before distant collectible cleanup to expose useful destinations and avoid repeated blind travel.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "count": 52,
+      "difficulty": 3,
+      "time": "Exploration during story and cleanup",
+      "hours": 5,
+      "guide": "Explore all 52 areas of Leonida. Both source guides describe the full-area discovery requirement; uncover the map and watch for each area's discovery state instead of assuming travel through it counted.",
+      "steps": ["Travel through unexplored portions of the map.", "Watch for the area-discovered notification or map change.", "Check the map for remaining undiscovered regions.", "Visit the uncovered areas until all 52 register."],
+      "tip": "Combine exploration with races and collectibles so the travel contributes to several cleanup goals.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Both guides cite discovery of all 52 Leonida areas.",
+      "checked": false
     },
     {
       "id": 43,
@@ -1389,30 +825,17 @@
       "hidden": false,
       "kind": "activities",
       "missable": false,
-      "stage": 4,
+      "stage": 5,
       "count": 9,
-      "difficulty": 3,
-      "time": "≈ 2–4 h",
-      "hours": 3,
-      "guide": "You need one operation from each of nine gangs, not nine random robberies. Nearby operations appear as yellow map icons and Progress > Gangs records which gangs you have hit. All 39 operations are needed for 100%, so this trophy is an early milestone.",
-      "steps": [
-        "Find a yellow illegal-operation icon and complete its robbery.",
-        "Check Progress > Gangs to identify gangs with no completed operation.",
-        "Rob at least one belonging to each of the nine gangs."
-      ],
-      "tip": "Use operation encounters for Gunslinger attempts when you have enough Focus.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "difficulty": 5,
+      "time": "Several gang operations across the map",
+      "hours": 6,
+      "guide": "Rob one Illegal Operation for each of the nine gangs. Both guides agree on the all-gangs condition; the safest route is to let the activity map reveal operations and mark each gang only after a successful robbery.",
+      "steps": ["Open the activity map and identify an Illegal Operation.", "Complete the robbery and escape so the operation is recorded.", "Note which gang owned that operation.", "Repeat until all nine gangs have a completed operation."],
+      "tip": "Keep a nine-gang checklist; repeating an operation for the same gang does not fill another slot.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Both guides support one Illegal Operation for each of nine gangs.",
+      "checked": false
     },
     {
       "id": 44,
@@ -1422,29 +845,16 @@
       "hidden": true,
       "kind": "activities",
       "missable": false,
-      "stage": 5,
-      "count": null,
-      "difficulty": 1,
-      "time": "Unconfirmed",
-      "hours": null,
-      "guide": "The official description points to a cocktail with an Ocean Beach view. PowerPyx now names a bar and drink, but GTABase still labels the exact steps unconfirmed; those specifics do not yet have two-source agreement. This entry therefore records the requirement without presenting a verified route.",
-      "steps": [
-        "Keep this on the final cleanup list until a corroborated method is available.",
-        "Compare both linked guides before committing to a specific bar or drink."
-      ],
-      "tip": "Do not treat an inferred location as confirmed just because it fits the description.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Sources disagree · exact method awaiting corroboration",
-      "checked": "2026-11-20"
+      "stage": 3,
+      "difficulty": 2,
+      "time": "Method currently disputed",
+      "hours": 1,
+      "guide": "PowerPyx's current route uses the Ocean View Rooftop Bar: buy an Apple Martini and drink it beside the bar. GTABase still says the exact steps are unconfirmed, so this is a published lead rather than a method corroborated by both sources.",
+      "steps": ["Go to Ocean View Rooftop Bar on Ocean Beach in Vice City.", "Buy an Apple Martini from the bar.", "Drink it while standing beside the bar and wait for the award.", "If it fails, check for a source update before trying a different venue."],
+      "tip": "Treat the rooftop bar and drink as provisional until GTABase confirms the same interaction.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "PowerPyx publishes a method; GTABase marks exact steps unconfirmed, so this entry preserves the disagreement.",
+      "checked": false
     },
     {
       "id": 45,
@@ -1454,29 +864,16 @@
       "hidden": true,
       "kind": "activities",
       "missable": false,
-      "stage": 5,
-      "count": null,
-      "difficulty": 2,
-      "time": "Unconfirmed",
-      "hours": null,
-      "guide": "The wording suggests a vehicle-showroom escape, but it does not identify the required car. PowerPyx now supplies a specific method while GTABase still marks the details unconfirmed. To avoid turning a single-source claim into a confirmed route, no particular showroom or car is prescribed here.",
-      "steps": [
-        "Reserve this for miscellaneous cleanup.",
-        "Recheck both sources for agreement on the required vehicle and showroom before attempting a route."
-      ],
-      "tip": "Keep a save before testing a theory; a plausible showroom stunt is not proof of the trophy trigger.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Sources disagree · exact method awaiting corroboration",
-      "checked": "2026-11-20"
+      "stage": 3,
+      "difficulty": 3,
+      "time": "Method currently disputed",
+      "hours": 1,
+      "guide": "PowerPyx's route is the blue Banshee in the south Vice City showroom, available after the Chapter 3 Key Cloner mission: hack it, drive through the display window, and continue down the street. GTABase still marks exact steps unconfirmed, so the vehicle and timing are not cross-verified.",
+      "steps": ["Complete Clonin' Keys, Makin' GS to obtain the Key Cloner.", "Go to the south Vice City showroom and identify its blue Banshee.", "Hack the car and drive straight through the showroom window.", "Continue away from the building and wait for the delayed trophy pop."],
+      "tip": "Save first, and remember that PowerPyx says another car will not trigger this specific route.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "PowerPyx gives a route while GTABase calls the exact steps unconfirmed; no unshared detail is presented as fact.",
+      "checked": false
     },
     {
       "id": 46,
@@ -1486,30 +883,16 @@
       "hidden": true,
       "kind": "activities",
       "missable": false,
-      "stage": 4,
-      "count": 3,
-      "difficulty": 3,
-      "time": "≈ 20–40 min",
-      "hours": 0.75,
-      "guide": "This is a robbery at Kingpin Bowling in Port Gellhorn, not a bowling minigame. Collect its three key valuables and then escape the police. You can recover missed valuables on a later visit, but the operation takes time to respawn.",
-      "steps": [
-        "Bring sticky bombs and visit Kingpin Bowling, marked by the Chapter 2 optional job.",
-        "Take the luxury watch in the southeast office and the shotgun on the northeast table.",
-        "Blow the safe in the northeast hallway office, loot it and escape the police."
-      ],
-      "tip": "Try to collect all three during the first visit to avoid waiting for the robbery to return.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "stage": 3,
+      "difficulty": 2,
+      "time": "One bowling visit",
+      "hours": 1,
+      "guide": "Play bowling at the Kolt & Associates alley and complete the follow-through. Both guides identify the named alley and the bowling interaction, so no score threshold is needed for this entry.",
+      "steps": ["Travel to the Kolt & Associates bowling alley.", "Start a bowling game using the venue interaction.", "Complete a throw or full game as prompted.", "Check for the trophy after the follow-through registers."],
+      "tip": "Follow the on-screen throw instructions rather than leaving immediately after opening the lane.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "The named bowling alley and activity requirement agree across both guides.",
+      "checked": false
     },
     {
       "id": 47,
@@ -1519,30 +902,16 @@
       "hidden": true,
       "kind": "activities",
       "missable": false,
-      "stage": 4,
-      "count": null,
+      "stage": 3,
       "difficulty": 2,
-      "time": "≈ 2–4 h",
-      "hours": 3,
-      "guide": "Maximize Strength for Jason and Lucia at the same time. After Coffee Break allows joint free-roam, bring your partner to workouts so training one character also trains the other. Check both Strength entries in the Jason & Lucia menu rather than assuming one character's progress applies to both.",
-      "steps": [
-        "Unlock joint free-roam after Coffee Break.",
-        "Bring your partner to fitness-club workouts, or use home training after the story.",
-        "Check Jason & Lucia > Strength for both characters and continue until both are maxed."
-      ],
-      "tip": "Working out together avoids spending a separate training session on each character.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "time": "Method not yet published",
+      "hours": 1,
+      "guide": "Max out Strength for Jason and Lucia at the same time. Both guides say paired workouts at a fitness club train the partner too; begin after Coffee Break opens character switching and check each character's Strength stat until full.",
+      "steps": ["Progress through Coffee Break so both characters can work out together.", "Open Map > Activities and find a fitness club.", "Invite your partner and complete workouts to raise both Strength stats.", "Check each character's stats and repeat until both are maxed."],
+      "tip": "Train as a pair so each session advances two stats instead of one.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Both guides describe maxing Strength for both protagonists and using partner workouts.",
+      "checked": false
     },
     {
       "id": 48,
@@ -1554,28 +923,15 @@
       "missable": false,
       "stage": 5,
       "count": 500,
-      "difficulty": 2,
-      "time": "Mostly passive · 1–3 h cleanup",
-      "hours": 2,
-      "guide": "The counter requires 500 actions that affect your Criminal Profile. Turn on the relevant HUD notifications to see which actions are registering while you work through robberies and encounters. Excess violence is unnecessary; the Irredeemable profile is permanent, so favor ordinary objectives and clean escapes.",
-      "steps": [
-        "Enable Criminal Profile notifications under Settings > UI.",
-        "Complete objectives, robberies and other profile-affecting actions during the platinum route.",
-        "Check the PlayStation trophy counter and continue qualifying actions if it remains below 500."
-      ],
-      "tip": "Leave deliberate grinding until last because the rest of the route supplies many profile changes.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "difficulty": 3,
+      "time": "Long-term choices; counter can be built naturally",
+      "hours": 6,
+      "guide": "Perform 500 actions that change your Criminal Profile. Both sources describe the counter and recommend enabling its UI notifications; watch it advance through normal play and avoid targeting the permanent Irredeemable profile.",
+      "steps": ["Turn on Criminal Profile notifications in Settings > UI.", "Play the story and open-world activities while watching for the profile indicator.", "Review the trophy counter after a batch of actions.", "Continue until it records 500 profile-changing actions."],
+      "tip": "Avoid pushing the profile to Irredeemable, which both sources describe as permanent.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "The 500-action count and Criminal Profile connection are stated by both guides.",
+      "checked": false
     },
     {
       "id": 49,
@@ -1586,28 +942,15 @@
       "kind": "activities",
       "missable": false,
       "stage": 5,
-      "count": null,
       "difficulty": 2,
-      "time": "Unconfirmed",
-      "hours": null,
-      "guide": "No verified unlock method is published in the two linked guides. The description alone does not establish which event must be repeated, and PowerPyx's speculation is not confirmation. Keep this entry unresolved rather than relying on a guessed mission or location.",
-      "steps": [
-        "Keep a clean save while finishing confirmed objectives.",
-        "Recheck the linked guides for a published and corroborated trigger before planning this trophy."
-      ],
-      "tip": "Repeating arbitrary activities is not a documented route; leave this until the missing method is confirmed.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Unconfirmed · method not yet published",
-      "checked": "2026-11-20"
+      "time": "Method not yet published",
+      "hours": 1,
+      "guide": "Neither checked guide has a confirmed method for this secret trophy. The description only hints that a second attempt matters, so leave it unconfirmed rather than inventing an activity, location, or failure sequence.",
+      "steps": ["Keep the trophy on the cleanup list.", "Record any naturally occurring second-attempt success during play.", "Check the trophy status after such an event.", "Follow a later corroborated guide update when one appears."],
+      "tip": "Do not deliberately fail an unverified activity just to test the wording.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Exact method remains unknown in both checked sources.",
+      "checked": false
     },
     {
       "id": 50,
@@ -1618,28 +961,15 @@
       "kind": "activities",
       "missable": false,
       "stage": 5,
-      "count": null,
-      "difficulty": 2,
-      "time": "Unconfirmed",
-      "hours": null,
-      "guide": "This secret's exact trigger does not have two-source agreement at this research checkpoint. PowerPyx now describes an Easter egg, but GTABase still says the precise steps are unconfirmed. A specific time, road or encounter is therefore withheld from the verified route.",
-      "steps": [
-        "Finish the confirmed cleanup objectives first.",
-        "Check both sources again for matching encounter conditions before targeting this secret."
-      ],
-      "tip": "Keep the spoiler setting enabled if you want to discover the event without reading its identity.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Sources disagree · exact method awaiting corroboration",
-      "checked": "2026-11-20"
+      "difficulty": 3,
+      "time": "Method currently disputed",
+      "hours": 1,
+      "guide": "PowerPyx links this to a UFO Easter egg northwest of the Starlet Motel in Kelly County, after 2 a.m., while travelling alone; the appearance is random. GTABase still marks the exact method unconfirmed, so treat those conditions as a source-specific lead, not a cross-verified guarantee.",
+      "steps": ["Travel alone to the road northwest of Starlet Motel in Kelly County.", "Arrive after 2 a.m. and watch for the UFO event.", "Witness the encounter when it appears; it may take another visit because the spawn is random.", "Check the trophy status and note whether the event registered."],
+      "tip": "Do not expect a guaranteed spawn on the first visit; the published route describes it as random.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "PowerPyx gives a method while GTABase calls exact steps unconfirmed; the discrepancy is retained.",
+      "checked": false
     },
     {
       "id": 51,
@@ -1650,28 +980,15 @@
       "kind": "activities",
       "missable": false,
       "stage": 5,
-      "count": null,
-      "difficulty": 2,
-      "time": "Unconfirmed",
-      "hours": null,
-      "guide": "The description calls for a melee drive-by, but it does not state a target count or time limit. PowerPyx now gives numeric conditions while GTABase still marks the method unconfirmed. Those conditions are not repeated here as verified facts.",
-      "steps": [
-        "Keep this trophy in the final miscellaneous cleanup group.",
-        "Consult both sources for a corroborated count and timing requirement before attempting a specific sequence."
-      ],
-      "tip": "Do not confuse this secret with the separately documented Kingpin Bowling robbery.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Sources disagree · exact method awaiting corroboration",
-      "checked": "2026-11-20"
+      "difficulty": 4,
+      "time": "Method currently disputed",
+      "hours": 1,
+      "guide": "PowerPyx's method is to ride a bike and kick ten pedestrians within 60 seconds. GTABase still describes the exact steps as unconfirmed, so the bike, kick input, and timer come from one published route rather than agreement between both guides.",
+      "steps": ["Get onto a bike in a crowded area such as Vice City or Ocean Beach.", "Ride close to pedestrians and use the kick action to knock them down.", "Reach ten takedowns within one minute.", "Check the trophy status; if it does not unlock, wait for a cross-checked update."],
+      "tip": "Choose a busy but open stretch so turns and traffic do not waste the short timer.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "PowerPyx publishes a method; GTABase marks exact steps unconfirmed.",
+      "checked": false
     },
     {
       "id": 52,
@@ -1681,30 +998,17 @@
       "hidden": false,
       "kind": "activities",
       "missable": false,
-      "stage": 4,
+      "stage": 5,
       "count": 250000,
-      "difficulty": 2,
-      "time": "≈ 1–3 h",
-      "hours": 2,
-      "guide": "Credit Check in Chapter 3 unlocks the Dye Pack Jammer and the marked-bill laundering route. Take marked bills from banks and Payday Loans to fences; the $250,000 is cumulative, not one delivery. The bank-vault cleanup for 100% supplies substantial hauls.",
-      "steps": [
-        "Finish Credit Check to unlock the Dye Pack Jammer.",
-        "Rob bank or Payday Loan targets and bring marked bills to a fence.",
-        "Repeat deliveries until total laundering earnings reach $250,000."
-      ],
-      "tip": "Both guides identify Yasmani in Vice City as the best-paying fence.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "difficulty": 4,
+      "time": "Several laundering jobs and contact payouts",
+      "hours": 6,
+      "guide": "Launder a cumulative $250,000 in Marked Bills through contacts. Both sources describe the running total; the guide route unlocks a Dye Pack Jammer through Chapter 3's Credit Check, then uses robberies and fence sales to move marked cash.",
+      "steps": ["Progress through Chapter 3's Credit Check contact mission.", "Use robberies to collect Marked Bills, then sell them through a fence contact.", "Check the laundering total after each sale.", "Repeat until $250,000 is credited."],
+      "tip": "Write down the post-job counter so ordinary cash spending does not obscure the laundering total.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "The $250,000 Marked Bills laundering target is confirmed by both guides.",
+      "checked": false
     },
     {
       "id": 53,
@@ -1714,30 +1018,17 @@
       "hidden": false,
       "kind": "activities",
       "missable": false,
-      "stage": 4,
+      "stage": 5,
       "count": 100000,
-      "difficulty": 1,
-      "time": "≈ 10–30 min with funds",
-      "hours": 0.5,
-      "guide": "Spending is cumulative across shops, so you do not need a single $100,000 purchase. Guns, car modifications and tattoos are cited as quick ways to spend the money. Buy useful upgrades during other pursuits, then only top up the missing amount.",
-      "steps": [
-        "Earn enough cash through the story and robbery route.",
-        "Buy useful equipment or upgrades across shops.",
-        "Check the spending counter and continue until $100,000 is reached."
-      ],
-      "tip": "Save money for garages too; they solve a separate trophy and vehicle-capacity requirement.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "difficulty": 3,
+      "time": "Build naturally or during a dedicated shopping sweep",
+      "hours": 4,
+      "guide": "Spend a cumulative $100,000 across shop types. Both sources say the total carries across stores; useful eligible purchases include weapons, vehicle modifications, and tattoos, with the in-game counter showing progress.",
+      "steps": ["Visit available shop categories during free roam.", "Buy eligible goods such as weapons, vehicle mods, or tattoos.", "Review the tracked spending total between visits.", "Continue until the combined total reaches $100,000."],
+      "tip": "Combine this with preparation for range, combat, and robbery trophies so the money buys useful items.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Both guides confirm the $100,000 across-shops spending threshold.",
+      "checked": false
     },
     {
       "id": 54,
@@ -1747,30 +1038,17 @@
       "hidden": false,
       "kind": "activities",
       "missable": false,
-      "stage": 4,
+      "stage": 5,
       "count": 8,
-      "difficulty": 2,
-      "time": "≈ 15–30 min with funds",
-      "hours": 0.5,
-      "guide": "Buy the eight purchasable garages through the Vice City Real Estate phone app. The app unlocks after Daily Driver in Chapter 2, and the full set costs about $160,000. The four story-provided garages do not count toward these eight purchases.",
-      "steps": [
-        "Finish Daily Driver and open Vice City Real Estate.",
-        "Raise roughly $160,000 and purchase all eight garages listed for sale.",
-        "Confirm every purchasable garage is owned."
-      ],
-      "tip": "Buy these before registering ten vehicles so parking capacity does not block On the Spot.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "difficulty": 3,
+      "time": "Property purchases after building enough cash",
+      "hours": 5,
+      "guide": "Buy the eight garages offered in Vice City's Real Estate phone app, available after Daily Driver in Chapter 2. Both guides distinguish those purchasable properties from the four garages granted by the story, which do not count toward this trophy.",
+      "steps": ["Complete Daily Driver to unlock the Real Estate phone app.", "Open the app and note the eight garages listed for sale.", "Buy each property, budgeting about $160,000 in total.", "Check the property list to confirm all purchasable garages are owned."],
+      "tip": "Keep a cash reserve for the final property so the last purchase is not delayed by other spending.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "Both sources state that all eight garage properties are required.",
+      "checked": false
     },
     {
       "id": 55,
@@ -1780,30 +1058,17 @@
       "hidden": false,
       "kind": "activities",
       "missable": false,
-      "stage": 4,
+      "stage": 5,
       "count": 10,
-      "difficulty": 2,
-      "time": "≈ 30–90 min",
-      "hours": 1,
-      "guide": "Moses' Chapter 2 introduction unlocks Scooter Bros vehicle registration. Take stolen vehicles to his Port Gellhorn garage and use Respray, then Register, with enough garage spaces available. Early on, use vehicles without trackers; later access expands in Chapter 3.",
-      "steps": [
-        "Complete Moses' introduction and purchase enough garage capacity.",
-        "Bring suitable stolen vehicles to Moses, respray and register them.",
-        "Repeat until ten registered vehicles appear in Scooter Bros."
-      ],
-      "tip": "Cheap cars and bikes keep registration costs down; buy garage capacity before filling the app.",
-      "source": [
-        {
-          "name": "PowerPyx · Trophy Guide & Roadmap",
-          "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-        },
-        {
-          "name": "GTABase · Trophy Guide & Achievements",
-          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
-        }
-      ],
-      "status": "Corroborated · PowerPyx + GTABase",
-      "checked": "2026-11-20"
+      "difficulty": 3,
+      "time": "Ten vehicle registrations plus collection time",
+      "hours": 3,
+      "guide": "Register ten vehicles through the Scooter Bros app at Moses' garage in Port Gellhorn. Both guides agree on the total and registration process; early on, use cars without trackers, while Pay 'n' Spray registration opens later for tracked vehicles.",
+      "steps": ["Complete Moses' Chapter 2 mission to receive the Scooter Bros app.", "Bring a vehicle to his garage in Port Gellhorn and respray it.", "Register eligible vehicles; use untracked cars at first, then Pay 'n' Spray after Chapter 3 for tracked ones.", "Keep garage space and registration fees available until ten are recorded."],
+      "tip": "Keep a note of registered vehicles so you do not waste time submitting the same one twice.",
+      "source": [{"name": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}, {"name": "GTABase — GTA 6 Trophy Guide & Achievements List", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}],
+      "status": "The app and ten-vehicle requirement are confirmed by both guides.",
+      "checked": false
     }
   ]
 }
