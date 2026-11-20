@@ -1,25 +1,39 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GTA VI trophy checklist</title>
-<link rel="stylesheet" href="style.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#153e36">
+  <title>Leonida Ledger — GTA VI Trophy Guide</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' fill='%23153e36'/%3E%3Ctext x='10' y='29' font-size='28' fill='%23eee6d5'%3EL%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+  <script type="module" src="app.js"></script>
 </head>
 <body>
-<header>
-  <h1>GTA VI trophy checklist</h1>
-  <p id="progress">0 of 55 earned</p>
-</header>
-<div class="controls">
-  <label>Grade <select id="grade"><option value="all">All</option><option value="platinum">Platinum</option><option value="gold">Gold</option><option value="silver">Silver</option><option value="bronze">Bronze</option></select></label>
-  <button id="export" type="button">Export progress</button>
-  <label class="import">Import progress <input id="import" type="file" accept="application/json"></label>
-</div>
-<table>
-  <thead><tr><th>Earned</th><th>Trophy</th><th>Grade</th><th>How to get it</th></tr></thead>
-  <tbody id="rows"></tbody>
-</table>
-<script type="module" src="app.js"></script>
+  <header class="masthead"><a class="brand" href="./"><span class="monogram">LL</span> LEONIDA LEDGER</a><span class="edition">FIELD NOTES FOR THE LONG ROAD</span><span class="offline"><i></i> OFFLINE EDITION · PS5</span></header>
+  <aside class="sidebar">
+    <div class="eyebrow">YOUR PLATINUM FILE</div>
+    <div class="total"><strong id="earned">0</strong><span>/ 55<br>trophies earned</span></div>
+    <progress id="overall" max="55" value="0" aria-label="Overall trophy progress"></progress>
+    <div class="save-state" id="saveState">Saved on this device</div>
+    <div class="side-heading">BY TROPHY GRADE <span id="percent">0%</span></div><div id="gradeProgress"></div>
+    <div class="side-heading">BY PURSUIT</div><div id="kindProgress"></div>
+    <div class="side-heading">YOUR NEXT CHAPTER</div><button id="nextUp" class="next-card"></button>
+    <div class="backup"><button id="export">Export JSON ↗</button><button id="import">Import JSON ↙</button><input id="importFile" type="file" accept="application/json,.json" hidden><button id="reset" class="text-button">Reset progress</button></div>
+    <p class="side-note">Private by design. Your checks, counters and notes stay in your browser.</p>
+  </aside>
+  <main>
+    <section class="intro"><div><div class="eyebrow">GRAND THEFT AUTO VI / THE COMPLETE TROPHY JOURNAL</div><h1>Every trophy. <em>A plan for each.</em></h1><p>55 pursuits across Leonida. One playthrough. Your road to legend.</p></div><div class="stamp"><strong>4<span>/10</span></strong><span>≈ 200 HOURS</span><small>PowerPyx estimate</small></div></section>
+    <div class="notice"><span>!</span><p><b>Before you leave Chapter 1:</b> accept Lucia’s balcony meditation. <button id="missableLink">One potentially missable trophy →</button></p><small>Keep cheats off.<br>Keep chapter saves.</small></div>
+    <nav class="tabs" aria-label="Guide sections"><button class="active" data-view="ledger">01 / Trophy ledger <span>55</span></button><button data-view="roadmap">02 / Platinum roadmap <span>6 stages</span></button><div>1 PLATINUM · 2 GOLD · 6 SILVER · 46 BRONZE</div></nav>
+    <section id="ledgerView">
+      <div class="toolbar"><label class="search">⌕ <input id="search" type="search" placeholder="Find a trophy, mission or requirement…" aria-label="Search trophies"></label><label class="sort-label">SORT <select id="sort"><option value="grade">Trophy grade</option><option value="difficulty">Difficulty ↑</option><option value="time">Time ↑</option><option value="name">Name A–Z</option></select></label></div>
+      <div class="filters" id="filters"><button class="active" data-kind="all">All trophies</button><button data-kind="story">Story</button><button data-kind="missable">Missable <b>1</b></button><button data-kind="collectibles">Collectibles</button><button data-kind="activities">Activities</button><button data-kind="online">Online <b>0</b></button><label><input id="spoilers" type="checkbox"> Hide spoilers</label></div>
+      <div class="ledger-columns"><section class="trophy-column"><div class="list-heading"><span id="resultCount">55 ENTRIES</span><label><input id="remaining" type="checkbox"> Unearned only</label></div><div id="trophyList" class="trophy-list"></div></section><article id="detail" class="detail" aria-label="Selected trophy guide"></article></div>
+    </section>
+    <section id="roadmapView" hidden></section>
+    <footer>LEONIDA LEDGER <span>Independent guide · Sources checked 20 Nov 2026 · No online trophies</span></footer>
+  </main>
+  <div id="toast" role="status" aria-live="polite"></div>
 </body>
 </html>

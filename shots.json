@@ -1,5 +1,6 @@
 [
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
+  { "file": "1-ledger.jpg", "viewport": { "width": 1280, "height": 800 }, "view": "Trophy checklist, grade/kind progress, Cunning Stunts guide, 12 earned trophies and a personal 174/250 counter" },
+  { "file": "2-meditation.jpg", "viewport": { "width": 1280, "height": 800 }, "view": "Potentially missable meditation guide: steps, tip, estimates and two sources" },
+  { "file": "3-roadmap.jpg", "viewport": { "width": 1280, "height": 800 }, "view": "Six-stage roadmap with live stage completion and missable safeguards" },
+  { "file": "4-tracker.jpg", "viewport": { "width": 1280, "height": 800 }, "view": "Next Up, difficulty sort, hidden-trophy search, unearned filter and spoiler protection" }
 ]
